@@ -21,5 +21,19 @@ class Main {
     catch(Exception e) {
       e.getStackTrace();
     }
-  }
+  }#feature301 making some changes
+  // reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
+
+  
+  
+  
+  
+  
 }
+
+
